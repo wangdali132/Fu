@@ -1,4 +1,4 @@
-package zbf.oauthLogin;
+package com.zbf.oauthLogin;
 
 import com.zbf.common.IdEntity;
 import lombok.Data;

@@ -1,4 +1,4 @@
-package zbf.core.utils;
+package com.zbf.core.utils;
 
 import org.springframework.util.ResourceUtils;
 import org.springframework.web.multipart.MultipartFile;

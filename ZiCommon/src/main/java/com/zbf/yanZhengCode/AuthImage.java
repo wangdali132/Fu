@@ -1,4 +1,4 @@
-package zbf.yanZhengCode;
+package com.zbf.yanZhengCode;
 
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;

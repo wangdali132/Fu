@@ -5,7 +5,7 @@
  * 
  * $Id: ReflectionUtils.java 969 2010-03-01 14:50:35Z calvinxiu $
  */
-package zbf.core.utils;
+package com.zbf.core.utils;
 
 import org.apache.commons.beanutils.ConvertUtils;
 import org.apache.commons.beanutils.PropertyUtils;

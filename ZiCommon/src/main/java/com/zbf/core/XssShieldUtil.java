@@ -1,4 +1,4 @@
-package zbf.core;
+package com.zbf.core;
 
 import org.apache.commons.lang.StringUtils;
 

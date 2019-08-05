@@ -1,4 +1,4 @@
-package zbf.common;
+package com.zbf.common;
 
 import lombok.Data;
 

@@ -1,4 +1,4 @@
-package zbf.core.utils;
+package com.zbf.core.utils;
 
 import org.apache.commons.codec.binary.Base64;
 

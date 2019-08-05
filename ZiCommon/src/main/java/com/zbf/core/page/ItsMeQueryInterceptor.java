@@ -1,4 +1,4 @@
-package zbf.core.page;
+package com.zbf.core.page;
 
 
 import org.apache.ibatis.executor.parameter.ParameterHandler;

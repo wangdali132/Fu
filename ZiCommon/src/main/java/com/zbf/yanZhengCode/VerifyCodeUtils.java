@@ -1,4 +1,4 @@
-package zbf.yanZhengCode;
+package com.zbf.yanZhengCode;
 
 import javax.imageio.ImageIO;
 import java.awt.*;
